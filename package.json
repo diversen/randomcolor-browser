@@ -1,0 +1,27 @@
+{
+  "name": "randomcolor-browser",
+  "version": "1.0.0",
+  "description": "browser version of randomcolor",
+  "main": "index.js",
+  "dependencies": {
+    "randomcolor": "^0.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/randomcolor-browser.git"
+  },
+  "keywords": [
+    "randomcolor",
+    "random"
+  ],
+  "author": "dennis iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/randomcolor-browser/issues"
+  },
+  "homepage": "https://github.com/diversen/randomcolor-browser#readme"
+}
