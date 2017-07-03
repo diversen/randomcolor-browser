@@ -1,6 +1,6 @@
 {
   "name": "randomcolor-browser",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "browser version of randomcolor",
   "main": "index.js",
   "dependencies": {
